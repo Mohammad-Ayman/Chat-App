@@ -13,15 +13,15 @@ This is a simple chat application built with Express.js and Socket.IO.
 
 2. Navigate to the project directory:
 
-```
- cd Chat-App
-```
+    ```
+     cd Chat-App
+    ```
 
 3. Install dependencies:
 
-```
-npm install
-```
+    ```
+    npm install
+    ```
 
 ## Usage
 
@@ -36,12 +36,12 @@ npm install
 
 ## Features
 
-Real-time messaging with WebSocket.
-User typing indication.
-Responsive design.
+1. Real-time messaging with WebSocket.
+2. User typing indication.
+3. Responsive design.
 
 ## Technologies Used
 
-Node.js
-Express.js
-Socket.IO
+1. Node.js
+2. Express.js
+3. Socket.IO
